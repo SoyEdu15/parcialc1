@@ -1,0 +1,6 @@
+# Ignorar archivos generados por el sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de configuración de VS Code
+.vscode/
