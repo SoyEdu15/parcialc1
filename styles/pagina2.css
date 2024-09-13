@@ -61,7 +61,7 @@ main{
     
     margin-top: 10vh;
     margin: 3em;
-    border:  3px solid rgb(151, 148, 148);
+    
     padding: 2em;
     box-sizing: borderbox;
 }
@@ -69,6 +69,6 @@ main{
 
 .Description, #hobies,#metas-personales,#informacion,#Familia{
     margin: 2em;
-    border: 3px solid rgb(127, 124, 124);
+    border: 3px solid rgb(248, 197, 243);
     border-radius:10px ;
 }
